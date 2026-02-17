@@ -9,10 +9,11 @@ p {
     line-height: 8px;
     text-align: center;
 
-    background: url("lablab.jpg") no-repeat center/cover;
+    background: url("7+emotions") no-repeat center/cover;
     background-attachment: fixed;
 
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
